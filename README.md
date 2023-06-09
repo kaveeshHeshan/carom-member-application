@@ -14,7 +14,7 @@
 10. I have added an **Backup SQL file** in **backup** folder. If you want, you can import it to the DB created by you.
 11. If you are not going to import backup sql file, you may have to run **php artisan migrate** to make tables in the database.
 12. Then click the URL generated in **8 th step** and you are good to go.
-13. Make sure to login to test the functionality.
+13. Make sure to register and login to test the functionality.
 
 ## NOTE
 
